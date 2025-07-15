@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PQESG",
+    "name": "Brandi Blair",
+    "age": 52,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 65 bpm"
+  }
+]

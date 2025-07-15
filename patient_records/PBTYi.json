@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PBTYi",
+    "name": "Erik Newman",
+    "age": 38,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 99 bpm"
+  }
+]

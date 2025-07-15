@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXDeL",
+    "name": "Donald Lewis",
+    "age": 43,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 80 bpm"
+  }
+]

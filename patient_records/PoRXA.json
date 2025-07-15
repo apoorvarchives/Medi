@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PoRXA",
+    "name": "Patricia Herman",
+    "age": 43,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 66 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PPxwc",
+    "name": "Norma Perez",
+    "age": 63,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

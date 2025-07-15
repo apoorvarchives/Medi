@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGfCN",
+    "name": "David Wood",
+    "age": 71,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 81 bpm"
+  }
+]

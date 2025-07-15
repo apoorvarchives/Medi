@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pzaak",
+    "name": "Angie Adams",
+    "age": 43,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 100 bpm"
+  }
+]

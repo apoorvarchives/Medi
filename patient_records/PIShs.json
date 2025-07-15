@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PIShs",
+    "name": "William Valencia",
+    "age": 54,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 85 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDbdZ",
+    "name": "Robin Garcia",
+    "age": 84,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 70 bpm"
+  }
+]

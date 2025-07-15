@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PbfVQ",
+    "name": "Anita Long",
+    "age": 79,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 72 bpm"
+  }
+]

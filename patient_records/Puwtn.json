@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Puwtn",
+    "name": "Edwin Rivera",
+    "age": 23,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 64 bpm"
+  }
+]

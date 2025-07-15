@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PcUkw",
+    "name": "Jennifer Johnson",
+    "age": 48,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 88 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PoUJe",
+    "name": "Luis Brown MD",
+    "age": 38,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 77 bpm"
+  }
+]

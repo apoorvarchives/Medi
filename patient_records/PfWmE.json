@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PfWmE",
+    "name": "Gregory Nichols",
+    "age": 43,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 72 bpm"
+  }
+]

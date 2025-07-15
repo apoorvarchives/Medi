@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PllZi",
+    "name": "Eric Ruiz",
+    "age": 78,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

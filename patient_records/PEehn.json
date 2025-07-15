@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PEehn",
+    "name": "Matthew Campbell",
+    "age": 59,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 77 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PCEAI",
+    "name": "John Wong",
+    "age": 55,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 88 bpm"
+  }
+]

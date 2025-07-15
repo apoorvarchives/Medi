@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PmoGj",
+    "name": "Edwin Smith",
+    "age": 62,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 74 bpm"
+  }
+]

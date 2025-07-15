@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUeMr",
+    "name": "Joshua Roberson",
+    "age": 57,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 84 bpm"
+  }
+]

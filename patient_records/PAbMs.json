@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAbMs",
+    "name": "Michael Cowan",
+    "age": 30,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 74 bpm"
+  }
+]

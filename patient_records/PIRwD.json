@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PIRwD",
+    "name": "Ryan Alvarado",
+    "age": 25,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 90 bpm"
+  }
+]

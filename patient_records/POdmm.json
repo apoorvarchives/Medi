@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POdmm",
+    "name": "Jacob Parker",
+    "age": 62,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 92 bpm"
+  }
+]

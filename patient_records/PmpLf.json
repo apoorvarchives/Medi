@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PmpLf",
+    "name": "Stanley Santana",
+    "age": 27,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 70 bpm"
+  }
+]

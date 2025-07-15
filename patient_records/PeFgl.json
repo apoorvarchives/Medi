@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PeFgl",
+    "name": "Aaron Silva",
+    "age": 69,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 79 bpm"
+  }
+]

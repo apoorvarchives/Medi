@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSCoe",
+    "name": "Cody Kelley",
+    "age": 32,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 61 bpm"
+  }
+]

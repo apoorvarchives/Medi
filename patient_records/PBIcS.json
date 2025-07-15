@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PBIcS",
+    "name": "John Stephenson",
+    "age": 67,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 77 bpm"
+  }
+]

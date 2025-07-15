@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrRQz",
+    "name": "John Herrera",
+    "age": 53,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 86 bpm"
+  }
+]

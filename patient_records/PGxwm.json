@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGxwm",
+    "name": "Elizabeth Merritt",
+    "age": 50,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 95 bpm"
+  }
+]

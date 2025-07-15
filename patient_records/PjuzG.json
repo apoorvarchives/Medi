@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PjuzG",
+    "name": "Brett Escobar",
+    "age": 70,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 88 bpm"
+  }
+]

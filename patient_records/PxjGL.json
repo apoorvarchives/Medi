@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PxjGL",
+    "name": "Matthew Smith",
+    "age": 35,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 94 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrHTJ",
+    "name": "Tina Jones",
+    "age": 83,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 93 bpm"
+  }
+]

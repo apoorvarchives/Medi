@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PJHzR",
+    "name": "Gary Ramos",
+    "age": 38,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 78 bpm"
+  }
+]

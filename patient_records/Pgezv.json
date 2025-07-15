@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pgezv",
+    "name": "Colin Gaines",
+    "age": 36,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 79 bpm"
+  }
+]

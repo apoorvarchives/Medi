@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PhhWq",
+    "name": "Jeremy Moreno",
+    "age": 30,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

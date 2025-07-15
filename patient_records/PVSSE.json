@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PVSSE",
+    "name": "Mr. Fernando Caldwell",
+    "age": 81,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 82 bpm"
+  }
+]

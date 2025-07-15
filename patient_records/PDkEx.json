@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDkEx",
+    "name": "Sabrina Reynolds",
+    "age": 25,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 79 bpm"
+  }
+]

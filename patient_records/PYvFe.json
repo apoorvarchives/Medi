@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYvFe",
+    "name": "Dale Davis",
+    "age": 85,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 74 bpm"
+  }
+]

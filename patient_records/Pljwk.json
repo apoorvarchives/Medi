@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pljwk",
+    "name": "Richard Owens",
+    "age": 23,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 63 bpm"
+  }
+]

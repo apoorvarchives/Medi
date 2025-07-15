@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PfDSY",
+    "name": "Anthony Bauer",
+    "age": 42,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 100 bpm"
+  }
+]

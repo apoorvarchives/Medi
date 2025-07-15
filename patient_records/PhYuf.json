@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PhYuf",
+    "name": "Mr. Anthony Williams MD",
+    "age": 47,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 93 bpm"
+  }
+]

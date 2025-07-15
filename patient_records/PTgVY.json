@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTgVY",
+    "name": "Nicholas Salazar",
+    "age": 77,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 98 bpm"
+  }
+]

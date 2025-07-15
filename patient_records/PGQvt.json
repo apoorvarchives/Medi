@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGQvt",
+    "name": "Billy Beltran",
+    "age": 77,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 81 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PiqKs",
+    "name": "Eric Price",
+    "age": 48,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 74 bpm"
+  }
+]

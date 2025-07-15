@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POQkY",
+    "name": "Jerry Winters",
+    "age": 57,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 80 bpm"
+  }
+]

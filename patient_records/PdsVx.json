@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PdsVx",
+    "name": "Cathy Smith",
+    "age": 28,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 82 bpm"
+  }
+]

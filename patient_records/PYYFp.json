@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYYFp",
+    "name": "James Cox",
+    "age": 81,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 81 bpm"
+  }
+]

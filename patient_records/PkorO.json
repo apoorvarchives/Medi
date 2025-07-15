@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PkorO",
+    "name": "Alan Mcpherson",
+    "age": 62,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 66 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PvwEn",
+    "name": "Roy Smith",
+    "age": 85,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 62 bpm"
+  }
+]

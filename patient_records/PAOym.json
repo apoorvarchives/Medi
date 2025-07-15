@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAOym",
+    "name": "Diana Odom",
+    "age": 54,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 63 bpm"
+  }
+]

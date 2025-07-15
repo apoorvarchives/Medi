@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrjVC",
+    "name": "Donald Barr DVM",
+    "age": 71,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 65 bpm"
+  }
+]

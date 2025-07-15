@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGjWK",
+    "name": "Mrs. Jennifer Hernandez",
+    "age": 49,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 99 bpm"
+  }
+]

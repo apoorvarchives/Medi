@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PgUFB",
+    "name": "Katelyn Cunningham",
+    "age": 33,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 61 bpm"
+  }
+]

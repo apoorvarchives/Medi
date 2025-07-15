@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PxGod",
+    "name": "Andrew Thomas",
+    "age": 34,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 99 bpm"
+  }
+]

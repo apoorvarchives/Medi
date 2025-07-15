@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PiZiA",
+    "name": "Nicole Leonard",
+    "age": 46,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 97 bpm"
+  }
+]

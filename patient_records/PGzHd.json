@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGzHd",
+    "name": "Karen James",
+    "age": 80,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 64 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PWaFY",
+    "name": "Catherine Thomas",
+    "age": 20,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 95 bpm"
+  }
+]

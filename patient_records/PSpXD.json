@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSpXD",
+    "name": "Amber Hines",
+    "age": 76,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 60 bpm"
+  }
+]

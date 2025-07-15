@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PueiW",
+    "name": "Heather Garrison",
+    "age": 71,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 63 bpm"
+  }
+]

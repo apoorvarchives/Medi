@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pbxdf",
+    "name": "Patrick Ford MD",
+    "age": 73,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 95 bpm"
+  }
+]

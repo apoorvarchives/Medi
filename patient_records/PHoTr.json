@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PHoTr",
+    "name": "Brian Brown",
+    "age": 78,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 100 bpm"
+  }
+]

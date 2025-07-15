@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PsBuV",
+    "name": "Kelly Johnston",
+    "age": 32,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 64 bpm"
+  }
+]

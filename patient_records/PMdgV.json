@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PMdgV",
+    "name": "Allison Murphy MD",
+    "age": 66,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

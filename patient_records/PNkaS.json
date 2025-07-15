@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNkaS",
+    "name": "Austin Smith",
+    "age": 56,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 92 bpm"
+  }
+]

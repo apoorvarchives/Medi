@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PeByp",
+    "name": "Debra Turner",
+    "age": 31,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 95 bpm"
+  }
+]

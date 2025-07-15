@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PpHuq",
+    "name": "Lisa Stephens",
+    "age": 59,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 60 bpm"
+  }
+]

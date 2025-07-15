@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDTtf",
+    "name": "Collin Reed",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 91 bpm"
+  }
+]

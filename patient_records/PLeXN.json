@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLeXN",
+    "name": "Tiffany Schneider",
+    "age": 74,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 72 bpm"
+  }
+]

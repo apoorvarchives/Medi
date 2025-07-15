@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PEInR",
+    "name": "Jamie Smith",
+    "age": 30,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 89 bpm"
+  }
+]

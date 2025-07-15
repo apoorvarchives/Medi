@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PemDu",
+    "name": "Anita Young",
+    "age": 82,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 71 bpm"
+  }
+]

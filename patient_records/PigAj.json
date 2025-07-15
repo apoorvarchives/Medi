@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PigAj",
+    "name": "Justin Marshall",
+    "age": 33,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 82 bpm"
+  }
+]

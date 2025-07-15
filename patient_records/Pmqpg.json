@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pmqpg",
+    "name": "Jason Franco",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 60 bpm"
+  }
+]

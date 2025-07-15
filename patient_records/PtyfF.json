@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PtyfF",
+    "name": "Stephen Jenkins",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 94 bpm"
+  }
+]

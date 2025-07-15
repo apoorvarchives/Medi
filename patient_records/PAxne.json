@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAxne",
+    "name": "John Klein",
+    "age": 52,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 88 bpm"
+  }
+]

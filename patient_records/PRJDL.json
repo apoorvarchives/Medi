@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PRJDL",
+    "name": "Ian Thompson",
+    "age": 58,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 63 bpm"
+  }
+]

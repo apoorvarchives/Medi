@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSOCZ",
+    "name": "Robert Spencer",
+    "age": 64,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 65 bpm"
+  }
+]

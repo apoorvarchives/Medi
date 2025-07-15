@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PaDsz",
+    "name": "Maria Harris",
+    "age": 45,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 71 bpm"
+  }
+]

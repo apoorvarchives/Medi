@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXIMv",
+    "name": "Richard Barker",
+    "age": 81,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 74 bpm"
+  }
+]

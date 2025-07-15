@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PadFO",
+    "name": "Tiffany Williams",
+    "age": 37,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 95 bpm"
+  }
+]

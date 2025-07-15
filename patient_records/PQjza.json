@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PQjza",
+    "name": "Kimberly Jones",
+    "age": 62,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

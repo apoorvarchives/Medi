@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PKaQe",
+    "name": "Matthew Davis",
+    "age": 72,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 82 bpm"
+  }
+]

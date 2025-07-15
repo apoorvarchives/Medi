@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDQqC",
+    "name": "Elizabeth Adams",
+    "age": 69,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 65 bpm"
+  }
+]

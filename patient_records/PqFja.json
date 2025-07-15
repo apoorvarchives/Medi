@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PqFja",
+    "name": "Kimberly Garcia",
+    "age": 67,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 72 bpm"
+  }
+]

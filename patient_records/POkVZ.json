@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POkVZ",
+    "name": "Natalie Oneill",
+    "age": 81,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

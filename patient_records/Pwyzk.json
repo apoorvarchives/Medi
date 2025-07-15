@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pwyzk",
+    "name": "Patricia Andrews",
+    "age": 25,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 85 bpm"
+  }
+]

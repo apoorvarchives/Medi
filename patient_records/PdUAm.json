@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PdUAm",
+    "name": "Shannon Graham",
+    "age": 27,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 68 bpm"
+  }
+]

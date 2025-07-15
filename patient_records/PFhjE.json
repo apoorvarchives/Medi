@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PFhjE",
+    "name": "John Jackson",
+    "age": 79,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 67 bpm"
+  }
+]

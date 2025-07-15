@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Peysg",
+    "name": "Cindy Powers",
+    "age": 36,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 68 bpm"
+  }
+]

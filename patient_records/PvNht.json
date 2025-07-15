@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PvNht",
+    "name": "Kimberly Smith",
+    "age": 49,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 71 bpm"
+  }
+]

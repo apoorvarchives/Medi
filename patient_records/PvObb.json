@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PvObb",
+    "name": "Nancy Castro",
+    "age": 79,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 66 bpm"
+  }
+]

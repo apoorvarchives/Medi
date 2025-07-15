@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PfGdd",
+    "name": "Kyle Ramos",
+    "age": 29,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 96 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PsqXi",
+    "name": "Clarence Norris",
+    "age": 53,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 83 bpm"
+  }
+]

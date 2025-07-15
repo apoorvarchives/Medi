@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZSnG",
+    "name": "Katherine Hooper",
+    "age": 56,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 74 bpm"
+  }
+]

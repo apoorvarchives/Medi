@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PlksG",
+    "name": "Jessica Reid",
+    "age": 73,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 96 bpm"
+  }
+]

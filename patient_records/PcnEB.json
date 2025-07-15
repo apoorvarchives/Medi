@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PcnEB",
+    "name": "Devon Martin",
+    "age": 68,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 62 bpm"
+  }
+]

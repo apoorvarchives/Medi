@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLzcD",
+    "name": "Terry Castillo",
+    "age": 70,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 100 bpm"
+  }
+]

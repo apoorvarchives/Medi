@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNAXv",
+    "name": "Veronica Hall",
+    "age": 60,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 77 bpm"
+  }
+]

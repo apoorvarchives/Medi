@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyCtZ",
+    "name": "Kevin Stewart",
+    "age": 28,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 81 bpm"
+  }
+]

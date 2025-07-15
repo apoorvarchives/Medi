@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PlNTJ",
+    "name": "Michael Chang",
+    "age": 72,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 95 bpm"
+  }
+]

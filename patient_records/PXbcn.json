@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXbcn",
+    "name": "Jacqueline Stewart",
+    "age": 77,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 91 bpm"
+  }
+]

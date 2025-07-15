@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZWiv",
+    "name": "Erin Thompson",
+    "age": 61,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 100 bpm"
+  }
+]

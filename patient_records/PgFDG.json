@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PgFDG",
+    "name": "Joshua Humphrey DDS",
+    "age": 34,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 87 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PPibV",
+    "name": "Cassandra Reed",
+    "age": 78,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 77 bpm"
+  }
+]

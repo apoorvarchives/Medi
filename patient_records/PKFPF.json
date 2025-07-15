@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PKFPF",
+    "name": "Mrs. Ashley Burns DDS",
+    "age": 41,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 69 bpm"
+  }
+]

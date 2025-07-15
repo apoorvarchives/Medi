@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNLPH",
+    "name": "Richard Greer",
+    "age": 60,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 64 bpm"
+  }
+]

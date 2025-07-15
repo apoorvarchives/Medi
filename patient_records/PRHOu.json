@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PRHOu",
+    "name": "Shannon Lopez",
+    "age": 22,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 75 bpm"
+  }
+]

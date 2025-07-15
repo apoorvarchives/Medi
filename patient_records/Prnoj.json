@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Prnoj",
+    "name": "Angela Preston",
+    "age": 82,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 90 bpm"
+  }
+]

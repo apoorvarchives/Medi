@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAgYz",
+    "name": "Ray Bishop",
+    "age": 42,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 67 bpm"
+  }
+]

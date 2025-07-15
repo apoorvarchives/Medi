@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNDBj",
+    "name": "Michael Stephens",
+    "age": 64,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 65 bpm"
+  }
+]

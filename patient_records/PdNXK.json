@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PdNXK",
+    "name": "Paul Burke",
+    "age": 75,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

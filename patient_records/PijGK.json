@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PijGK",
+    "name": "John Johnson",
+    "age": 46,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 99 bpm"
+  }
+]

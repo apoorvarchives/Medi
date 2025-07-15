@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PbnVE",
+    "name": "Erika Mitchell",
+    "age": 57,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 64 bpm"
+  }
+]

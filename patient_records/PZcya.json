@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZcya",
+    "name": "Ryan Collins",
+    "age": 22,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 100 bpm"
+  }
+]

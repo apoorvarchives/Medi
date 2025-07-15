@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLHUo",
+    "name": "Katrina Klein",
+    "age": 59,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 95 bpm"
+  }
+]

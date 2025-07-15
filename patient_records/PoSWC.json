@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PoSWC",
+    "name": "Briana Taylor",
+    "age": 21,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 68 bpm"
+  }
+]

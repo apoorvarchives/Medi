@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PvoDJ",
+    "name": "Sally Lee",
+    "age": 50,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 62 bpm"
+  }
+]

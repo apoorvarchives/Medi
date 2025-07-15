@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PpHMG",
+    "name": "Brian Leonard",
+    "age": 38,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 95 bpm"
+  }
+]

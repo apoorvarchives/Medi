@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pbstr",
+    "name": "Stephen Smith",
+    "age": 37,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 95 bpm"
+  }
+]

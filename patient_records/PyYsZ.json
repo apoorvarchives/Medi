@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyYsZ",
+    "name": "Michael Freeman",
+    "age": 54,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 64 bpm"
+  }
+]

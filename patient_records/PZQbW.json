@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZQbW",
+    "name": "Timothy Figueroa",
+    "age": 46,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 61 bpm"
+  }
+]

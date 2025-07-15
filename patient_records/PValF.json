@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PValF",
+    "name": "Daniel Long DDS",
+    "age": 45,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 63 bpm"
+  }
+]

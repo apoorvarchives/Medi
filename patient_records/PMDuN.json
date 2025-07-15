@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PMDuN",
+    "name": "Kelly Harrell",
+    "age": 35,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 66 bpm"
+  }
+]

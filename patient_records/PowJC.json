@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PowJC",
+    "name": "Laura Martin",
+    "age": 45,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 67 bpm"
+  }
+]

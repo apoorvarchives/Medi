@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PEmmH",
+    "name": "Isaiah Nelson",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

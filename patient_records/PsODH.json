@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PsODH",
+    "name": "Joseph Wagner",
+    "age": 73,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 68 bpm"
+  }
+]

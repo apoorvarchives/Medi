@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSGZQ",
+    "name": "Michele Wilson",
+    "age": 78,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 100 bpm"
+  }
+]

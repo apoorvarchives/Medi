@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyMQZ",
+    "name": "Audrey Singleton",
+    "age": 64,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 86 bpm"
+  }
+]

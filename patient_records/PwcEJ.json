@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PwcEJ",
+    "name": "Shawn Mahoney",
+    "age": 71,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 66 bpm"
+  }
+]

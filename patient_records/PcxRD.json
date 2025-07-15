@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PcxRD",
+    "name": "Derek Christensen",
+    "age": 68,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 65 bpm"
+  }
+]

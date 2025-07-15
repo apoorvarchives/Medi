@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POZeF",
+    "name": "Edward Lopez",
+    "age": 38,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 89 bpm"
+  }
+]

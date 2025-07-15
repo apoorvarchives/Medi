@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXjOy",
+    "name": "Sarah Johnson MD",
+    "age": 42,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 96 bpm"
+  }
+]

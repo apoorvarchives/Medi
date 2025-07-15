@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAHxk",
+    "name": "Frank Johnson",
+    "age": 55,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 62 bpm"
+  }
+]

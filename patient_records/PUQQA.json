@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUQQA",
+    "name": "James Brown",
+    "age": 73,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 78 bpm"
+  }
+]

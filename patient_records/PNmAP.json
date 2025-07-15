@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNmAP",
+    "name": "Kristen Mendez",
+    "age": 84,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 76 bpm"
+  }
+]

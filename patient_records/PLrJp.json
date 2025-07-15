@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLrJp",
+    "name": "Joseph Raymond",
+    "age": 44,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

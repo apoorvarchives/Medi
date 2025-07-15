@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLhwR",
+    "name": "Joseph Blair",
+    "age": 57,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

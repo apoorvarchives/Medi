@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Podft",
+    "name": "Linda Martinez",
+    "age": 56,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 86 bpm"
+  }
+]

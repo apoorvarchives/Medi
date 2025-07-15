@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Prkeo",
+    "name": "Kevin Santos",
+    "age": 50,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 92 bpm"
+  }
+]

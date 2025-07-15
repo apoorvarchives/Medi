@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PdJjD",
+    "name": "Madison Malone",
+    "age": 54,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 68 bpm"
+  }
+]

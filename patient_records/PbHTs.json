@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PbHTs",
+    "name": "Lisa White DDS",
+    "age": 30,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 71 bpm"
+  }
+]

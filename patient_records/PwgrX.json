@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PwgrX",
+    "name": "Wendy Frank",
+    "age": 58,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 71 bpm"
+  }
+]

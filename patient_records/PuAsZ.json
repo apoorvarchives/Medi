@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PuAsZ",
+    "name": "Alexandra Brown",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 80 bpm"
+  }
+]

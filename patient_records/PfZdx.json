@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PfZdx",
+    "name": "Robert Holland",
+    "age": 34,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 62 bpm"
+  }
+]

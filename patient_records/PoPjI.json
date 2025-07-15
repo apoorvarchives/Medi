@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PoPjI",
+    "name": "Catherine Carter",
+    "age": 31,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 89 bpm"
+  }
+]

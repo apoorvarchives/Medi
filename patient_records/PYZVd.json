@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYZVd",
+    "name": "Tracey Gonzales",
+    "age": 71,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 93 bpm"
+  }
+]

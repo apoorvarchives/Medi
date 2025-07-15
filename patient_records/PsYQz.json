@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PsYQz",
+    "name": "Mary Evans",
+    "age": 52,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 84 bpm"
+  }
+]

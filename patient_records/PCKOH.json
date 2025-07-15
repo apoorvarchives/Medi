@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PCKOH",
+    "name": "Danielle Thomas",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 67 bpm"
+  }
+]

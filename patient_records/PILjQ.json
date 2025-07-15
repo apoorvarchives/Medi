@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PILjQ",
+    "name": "Wanda Obrien MD",
+    "age": 50,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 95 bpm"
+  }
+]

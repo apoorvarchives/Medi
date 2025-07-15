@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PzhcE",
+    "name": "Taylor Howard",
+    "age": 43,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 73 bpm"
+  }
+]

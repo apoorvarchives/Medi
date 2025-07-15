@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PnGGh",
+    "name": "Rodney Hicks",
+    "age": 52,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 78 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PHXdr",
+    "name": "Ashlee Foster",
+    "age": 49,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

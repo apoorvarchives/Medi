@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PIMCT",
+    "name": "Hannah Miller",
+    "age": 49,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 77 bpm"
+  }
+]

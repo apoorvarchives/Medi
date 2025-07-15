@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYmVc",
+    "name": "Shannon Price",
+    "age": 52,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 67 bpm"
+  }
+]

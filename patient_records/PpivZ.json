@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PpivZ",
+    "name": "Amanda Best",
+    "age": 39,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 85 bpm"
+  }
+]

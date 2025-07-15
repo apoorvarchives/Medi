@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PPNXJ",
+    "name": "Colleen Scott",
+    "age": 68,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 60 bpm"
+  }
+]

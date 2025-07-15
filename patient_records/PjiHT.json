@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PjiHT",
+    "name": "Mitchell Mooney",
+    "age": 57,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 66 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POaIK",
+    "name": "Karla Dillon",
+    "age": 56,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 77 bpm"
+  }
+]

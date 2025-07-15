@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pdqoo",
+    "name": "William Jackson",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 79 bpm"
+  }
+]

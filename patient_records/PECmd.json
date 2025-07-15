@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PECmd",
+    "name": "Tyler Diaz",
+    "age": 68,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 71 bpm"
+  }
+]

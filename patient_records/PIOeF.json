@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PIOeF",
+    "name": "Dr. Michaela Floyd MD",
+    "age": 24,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 70 bpm"
+  }
+]

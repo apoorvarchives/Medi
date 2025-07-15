@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PzTYk",
+    "name": "Robert Farrell",
+    "age": 73,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 88 bpm"
+  }
+]

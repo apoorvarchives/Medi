@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZWCw",
+    "name": "Mary Duncan",
+    "age": 25,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 72 bpm"
+  }
+]

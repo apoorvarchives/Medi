@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POvcm",
+    "name": "Thomas Lewis",
+    "age": 41,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 63 bpm"
+  }
+]

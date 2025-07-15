@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pzkla",
+    "name": "Ashley Lopez",
+    "age": 59,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 60 bpm"
+  }
+]

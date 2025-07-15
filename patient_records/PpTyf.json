@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PpTyf",
+    "name": "Veronica Johnson",
+    "age": 65,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 78 bpm"
+  }
+]

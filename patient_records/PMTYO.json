@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PMTYO",
+    "name": "Erika Shaw",
+    "age": 48,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 93 bpm"
+  }
+]

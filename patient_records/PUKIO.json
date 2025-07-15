@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUKIO",
+    "name": "Andrew Garcia",
+    "age": 72,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 61 bpm"
+  }
+]

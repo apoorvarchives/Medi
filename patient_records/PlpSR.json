@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PlpSR",
+    "name": "Jeffrey Johnson",
+    "age": 36,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 88 bpm"
+  }
+]

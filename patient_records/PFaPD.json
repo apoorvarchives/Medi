@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PFaPD",
+    "name": "Gloria Owens",
+    "age": 82,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 67 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYtLM",
+    "name": "Brianna Black",
+    "age": 45,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 68 bpm"
+  }
+]

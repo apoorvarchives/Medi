@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGsWr",
+    "name": "Scott Gonzalez",
+    "age": 22,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 86 bpm"
+  }
+]

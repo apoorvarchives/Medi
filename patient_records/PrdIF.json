@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrdIF",
+    "name": "Carmen Stewart",
+    "age": 41,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

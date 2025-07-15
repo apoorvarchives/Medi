@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNnyl",
+    "name": "Michael Lewis",
+    "age": 73,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 72 bpm"
+  }
+]

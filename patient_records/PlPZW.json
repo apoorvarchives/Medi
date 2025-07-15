@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PlPZW",
+    "name": "Mary Barber",
+    "age": 67,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 82 bpm"
+  }
+]

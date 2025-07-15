@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyLlT",
+    "name": "James Moore",
+    "age": 83,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 89 bpm"
+  }
+]

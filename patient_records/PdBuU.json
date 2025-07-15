@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PdBuU",
+    "name": "Frank Barker",
+    "age": 62,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 68 bpm"
+  }
+]

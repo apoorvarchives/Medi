@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGbuz",
+    "name": "Patricia Lane",
+    "age": 62,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 85 bpm"
+  }
+]

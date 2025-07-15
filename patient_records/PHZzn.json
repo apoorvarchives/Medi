@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PHZzn",
+    "name": "Jennifer Douglas",
+    "age": 57,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 93 bpm"
+  }
+]

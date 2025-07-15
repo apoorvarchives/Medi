@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pmaax",
+    "name": "Thomas Smith",
+    "age": 82,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 79 bpm"
+  }
+]

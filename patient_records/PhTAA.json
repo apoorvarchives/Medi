@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PhTAA",
+    "name": "Christina Lambert",
+    "age": 38,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 80 bpm"
+  }
+]

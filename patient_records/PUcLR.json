@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUcLR",
+    "name": "Amy Thompson",
+    "age": 76,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 73 bpm"
+  }
+]

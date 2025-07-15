@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUBal",
+    "name": "Mark Chase",
+    "age": 84,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 64 bpm"
+  }
+]

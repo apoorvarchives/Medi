@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PjheV",
+    "name": "Charles Peterson",
+    "age": 25,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 90 bpm"
+  }
+]

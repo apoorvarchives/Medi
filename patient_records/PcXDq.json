@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PcXDq",
+    "name": "Eric Watson",
+    "age": 37,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 74 bpm"
+  }
+]

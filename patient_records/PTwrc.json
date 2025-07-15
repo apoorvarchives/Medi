@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTwrc",
+    "name": "Anne Bennett",
+    "age": 63,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 77 bpm"
+  }
+]

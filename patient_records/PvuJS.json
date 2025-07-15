@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PvuJS",
+    "name": "Deborah Jones",
+    "age": 70,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 62 bpm"
+  }
+]

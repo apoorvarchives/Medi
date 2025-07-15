@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PeUyk",
+    "name": "Jacob Johnson",
+    "age": 23,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 79 bpm"
+  }
+]

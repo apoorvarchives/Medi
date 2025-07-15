@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGHck",
+    "name": "Michael Salazar",
+    "age": 82,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 75 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrFYJ",
+    "name": "Rachel Hubbard",
+    "age": 37,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 82 bpm"
+  }
+]

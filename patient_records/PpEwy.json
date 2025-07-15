@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PpEwy",
+    "name": "Victoria Scott",
+    "age": 64,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 82 bpm"
+  }
+]

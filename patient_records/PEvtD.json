@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PEvtD",
+    "name": "Sara Ruiz",
+    "age": 20,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 90 bpm"
+  }
+]

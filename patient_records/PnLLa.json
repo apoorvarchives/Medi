@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PnLLa",
+    "name": "Kelli Martin",
+    "age": 77,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

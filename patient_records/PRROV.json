@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PRROV",
+    "name": "George Lucas",
+    "age": 76,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 75 bpm"
+  }
+]

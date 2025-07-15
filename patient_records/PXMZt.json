@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXMZt",
+    "name": "Amber Baker",
+    "age": 72,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 70 bpm"
+  }
+]

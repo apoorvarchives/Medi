@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PJaIc",
+    "name": "Susan Dyer",
+    "age": 21,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 67 bpm"
+  }
+]

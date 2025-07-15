@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyCkC",
+    "name": "Tara Hicks",
+    "age": 39,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 86 bpm"
+  }
+]

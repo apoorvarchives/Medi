@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTPZA",
+    "name": "Brandi Rangel",
+    "age": 25,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 60 bpm"
+  }
+]

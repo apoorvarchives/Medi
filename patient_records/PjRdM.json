@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PjRdM",
+    "name": "Deborah Stone",
+    "age": 37,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

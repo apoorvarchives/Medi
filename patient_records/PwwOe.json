@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PwwOe",
+    "name": "Richard Jones",
+    "age": 26,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 70 bpm"
+  }
+]

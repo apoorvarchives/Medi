@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZhzw",
+    "name": "Robert Wilson",
+    "age": 26,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 70 bpm"
+  }
+]

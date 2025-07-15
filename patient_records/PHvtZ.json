@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PHvtZ",
+    "name": "Dorothy Rodriguez",
+    "age": 65,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

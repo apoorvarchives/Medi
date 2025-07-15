@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PoRbq",
+    "name": "James Oliver",
+    "age": 66,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

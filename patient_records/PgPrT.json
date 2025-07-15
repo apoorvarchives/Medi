@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PgPrT",
+    "name": "John Estrada",
+    "age": 30,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 89 bpm"
+  }
+]

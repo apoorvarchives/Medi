@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSzYY",
+    "name": "Kenneth Peters",
+    "age": 33,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 83 bpm"
+  }
+]

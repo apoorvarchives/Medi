@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PVNvQ",
+    "name": "Kristina Little",
+    "age": 32,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 95 bpm"
+  }
+]

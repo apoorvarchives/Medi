@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PaZCw",
+    "name": "Barbara Moore",
+    "age": 76,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 92 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDfrf",
+    "name": "Julie Parker",
+    "age": 43,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 70 bpm"
+  }
+]

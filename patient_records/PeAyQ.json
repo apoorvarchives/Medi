@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PeAyQ",
+    "name": "David Brewer",
+    "age": 69,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 79 bpm"
+  }
+]

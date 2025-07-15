@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PgFac",
+    "name": "April Arnold",
+    "age": 61,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 66 bpm"
+  }
+]

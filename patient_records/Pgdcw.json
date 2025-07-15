@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pgdcw",
+    "name": "Daniel Kaufman",
+    "age": 79,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 60 bpm"
+  }
+]

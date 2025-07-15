@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pgyaa",
+    "name": "Mark Li",
+    "age": 39,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 95 bpm"
+  }
+]

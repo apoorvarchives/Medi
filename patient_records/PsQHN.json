@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PsQHN",
+    "name": "Heather Preston",
+    "age": 64,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 84 bpm"
+  }
+]

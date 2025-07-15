@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUNpa",
+    "name": "Anne Dickerson",
+    "age": 25,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 89 bpm"
+  }
+]

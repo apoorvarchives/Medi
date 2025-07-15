@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PwDkT",
+    "name": "Raymond Douglas",
+    "age": 27,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 79 bpm"
+  }
+]

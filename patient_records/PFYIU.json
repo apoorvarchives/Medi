@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PFYIU",
+    "name": "Jeremy Hernandez",
+    "age": 70,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 98 bpm"
+  }
+]

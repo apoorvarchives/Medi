@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLjwt",
+    "name": "Alicia Rowe",
+    "age": 35,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 62 bpm"
+  }
+]

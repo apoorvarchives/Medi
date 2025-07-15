@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZAbl",
+    "name": "Carrie Gonzales",
+    "age": 43,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 76 bpm"
+  }
+]

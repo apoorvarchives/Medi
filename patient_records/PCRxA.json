@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PCRxA",
+    "name": "Michelle White",
+    "age": 31,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 72 bpm"
+  }
+]

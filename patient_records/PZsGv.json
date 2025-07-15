@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZsGv",
+    "name": "Meghan Escobar",
+    "age": 26,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 71 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PnvbV",
+    "name": "Joel Walker",
+    "age": 55,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 67 bpm"
+  }
+]

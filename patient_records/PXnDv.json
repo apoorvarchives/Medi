@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXnDv",
+    "name": "Gabriel Landry",
+    "age": 47,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 88 bpm"
+  }
+]

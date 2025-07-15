@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PilKk",
+    "name": "Alexander Fox",
+    "age": 20,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 62 bpm"
+  }
+]

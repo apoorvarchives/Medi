@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PeaUh",
+    "name": "Ian Howard",
+    "age": 45,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 88 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pwjkz",
+    "name": "Aaron Edwards",
+    "age": 59,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 64 bpm"
+  }
+]

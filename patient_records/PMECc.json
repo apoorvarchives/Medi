@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PMECc",
+    "name": "Eric Burke",
+    "age": 56,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 61 bpm"
+  }
+]

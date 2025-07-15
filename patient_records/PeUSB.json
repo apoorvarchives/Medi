@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PeUSB",
+    "name": "Denise Scott",
+    "age": 22,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 80 bpm"
+  }
+]

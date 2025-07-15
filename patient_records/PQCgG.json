@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PQCgG",
+    "name": "Elizabeth Morales",
+    "age": 28,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 86 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PmiGh",
+    "name": "Mary Kelley",
+    "age": 32,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 99 bpm"
+  }
+]

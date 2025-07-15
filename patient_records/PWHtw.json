@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PWHtw",
+    "name": "Michael Holt",
+    "age": 81,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 82 bpm"
+  }
+]

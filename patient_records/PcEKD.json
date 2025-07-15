@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PcEKD",
+    "name": "Gregory Torres",
+    "age": 40,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 83 bpm"
+  }
+]

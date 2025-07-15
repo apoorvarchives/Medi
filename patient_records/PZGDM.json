@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZGDM",
+    "name": "Justin Wolf",
+    "age": 44,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 77 bpm"
+  }
+]

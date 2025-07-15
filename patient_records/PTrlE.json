@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTrlE",
+    "name": "Mark Palmer",
+    "age": 46,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 94 bpm"
+  }
+]

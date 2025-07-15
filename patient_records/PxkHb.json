@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PxkHb",
+    "name": "John Clark",
+    "age": 41,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 78 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAPLa",
+    "name": "Kaitlyn Miller",
+    "age": 37,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 73 bpm"
+  }
+]

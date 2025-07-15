@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUBBq",
+    "name": "Daniel Wilson",
+    "age": 30,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 89 bpm"
+  }
+]

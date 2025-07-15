@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDMnZ",
+    "name": "Brenda Lucas",
+    "age": 29,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 60 bpm"
+  }
+]

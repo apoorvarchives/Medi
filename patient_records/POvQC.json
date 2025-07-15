@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POvQC",
+    "name": "Grace Miller",
+    "age": 57,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 96 bpm"
+  }
+]

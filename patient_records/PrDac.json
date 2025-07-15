@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrDac",
+    "name": "Rebecca Perry",
+    "age": 52,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 97 bpm"
+  }
+]

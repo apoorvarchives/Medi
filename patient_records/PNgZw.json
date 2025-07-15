@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNgZw",
+    "name": "Mrs. Stephanie Williams",
+    "age": 24,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

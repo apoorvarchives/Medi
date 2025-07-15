@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLiIH",
+    "name": "Jonathan Hughes",
+    "age": 52,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 63 bpm"
+  }
+]

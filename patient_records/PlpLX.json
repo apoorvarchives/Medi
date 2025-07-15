@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PlpLX",
+    "name": "James Ruiz",
+    "age": 25,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 98 bpm"
+  }
+]

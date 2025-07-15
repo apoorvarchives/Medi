@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PIbwh",
+    "name": "Ruben Smith",
+    "age": 72,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 72 bpm"
+  }
+]

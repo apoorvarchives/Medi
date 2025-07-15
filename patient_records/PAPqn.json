@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAPqn",
+    "name": "Joseph Newman",
+    "age": 22,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 69 bpm"
+  }
+]

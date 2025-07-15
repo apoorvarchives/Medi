@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNJxC",
+    "name": "Charles Martinez",
+    "age": 41,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 86 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PMpwo",
+    "name": "Nichole Hill",
+    "age": 23,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 91 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PKVJD",
+    "name": "Michael Haas",
+    "age": 22,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 84 bpm"
+  }
+]

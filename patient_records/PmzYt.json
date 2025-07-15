@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PmzYt",
+    "name": "Barbara Harris",
+    "age": 77,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 63 bpm"
+  }
+]

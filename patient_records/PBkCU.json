@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PBkCU",
+    "name": "Joyce Hall",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 94 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PFYJi",
+    "name": "Katherine Nunez",
+    "age": 45,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 88 bpm"
+  }
+]

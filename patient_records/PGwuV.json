@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGwuV",
+    "name": "Sara Hodge",
+    "age": 51,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 82 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POLlR",
+    "name": "Todd Hess",
+    "age": 47,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 74 bpm"
+  }
+]

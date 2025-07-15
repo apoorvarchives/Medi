@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXlaQ",
+    "name": "Steven Evans",
+    "age": 39,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 91 bpm"
+  }
+]

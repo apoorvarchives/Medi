@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLEKM",
+    "name": "Erin Haynes",
+    "age": 45,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 99 bpm"
+  }
+]

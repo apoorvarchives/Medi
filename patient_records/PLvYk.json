@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLvYk",
+    "name": "Alexis Johnston",
+    "age": 51,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 92 bpm"
+  }
+]

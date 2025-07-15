@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTidc",
+    "name": "Michael Yang",
+    "age": 72,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 86 bpm"
+  }
+]

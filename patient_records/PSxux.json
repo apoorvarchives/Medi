@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSxux",
+    "name": "William Palmer",
+    "age": 43,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 62 bpm"
+  }
+]

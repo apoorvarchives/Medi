@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYgUY",
+    "name": "Jessica Davis",
+    "age": 45,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 65 bpm"
+  }
+]

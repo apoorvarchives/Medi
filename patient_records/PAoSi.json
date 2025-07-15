@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAoSi",
+    "name": "Bonnie Perez",
+    "age": 76,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 91 bpm"
+  }
+]

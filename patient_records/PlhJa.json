@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PlhJa",
+    "name": "Christopher Grant",
+    "age": 39,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 78 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pjelm",
+    "name": "Maria Welch",
+    "age": 59,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

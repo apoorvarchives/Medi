@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PnKKM",
+    "name": "Derrick Edwards",
+    "age": 24,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

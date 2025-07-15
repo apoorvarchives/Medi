@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pacla",
+    "name": "Matthew Thomas",
+    "age": 83,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 71 bpm"
+  }
+]

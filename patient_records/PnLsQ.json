@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PnLsQ",
+    "name": "Stephen Mckinney",
+    "age": 83,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 65 bpm"
+  }
+]

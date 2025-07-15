@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PdHcg",
+    "name": "Diana Ford",
+    "age": 28,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 63 bpm"
+  }
+]

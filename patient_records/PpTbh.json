@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PpTbh",
+    "name": "Heather Byrd",
+    "age": 69,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 91 bpm"
+  }
+]

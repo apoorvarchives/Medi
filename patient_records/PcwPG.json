@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PcwPG",
+    "name": "Elizabeth Clements",
+    "age": 56,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 82 bpm"
+  }
+]

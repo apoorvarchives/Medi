@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyyYr",
+    "name": "Jennifer Huff",
+    "age": 25,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 88 bpm"
+  }
+]

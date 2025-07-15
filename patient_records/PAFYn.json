@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAFYn",
+    "name": "Maureen Hall",
+    "age": 75,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 86 bpm"
+  }
+]

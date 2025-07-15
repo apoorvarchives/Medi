@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PXaqb",
+    "name": "Carl Castro",
+    "age": 61,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 86 bpm"
+  }
+]

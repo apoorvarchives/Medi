@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PzJkH",
+    "name": "Charles Morgan",
+    "age": 65,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 90 bpm"
+  }
+]

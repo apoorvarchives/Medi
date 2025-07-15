@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNodl",
+    "name": "Curtis Holloway",
+    "age": 79,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 98 bpm"
+  }
+]

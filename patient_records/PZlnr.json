@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PZlnr",
+    "name": "Michael Black",
+    "age": 57,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 60 bpm"
+  }
+]

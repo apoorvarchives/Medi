@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PqubR",
+    "name": "Jonathan Strickland",
+    "age": 27,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 82 bpm"
+  }
+]

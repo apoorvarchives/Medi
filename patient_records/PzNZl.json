@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PzNZl",
+    "name": "David Moore",
+    "age": 44,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 96 bpm"
+  }
+]

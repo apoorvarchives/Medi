@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyFgZ",
+    "name": "Patricia Hall",
+    "age": 61,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 99 bpm"
+  }
+]

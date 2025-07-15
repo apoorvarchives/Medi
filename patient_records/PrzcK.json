@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrzcK",
+    "name": "Alec Hopkins",
+    "age": 22,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 91 bpm"
+  }
+]

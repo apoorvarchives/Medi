@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PPImV",
+    "name": "Janice Mccormick",
+    "age": 32,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 87 bpm"
+  }
+]

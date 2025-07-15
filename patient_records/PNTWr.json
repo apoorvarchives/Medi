@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNTWr",
+    "name": "Brian Gonzales",
+    "age": 38,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 96 bpm"
+  }
+]

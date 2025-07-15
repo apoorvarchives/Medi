@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PFJZM",
+    "name": "Kathleen Hurley",
+    "age": 72,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 71 bpm"
+  }
+]

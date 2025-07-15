@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PvfUf",
+    "name": "Brenda Brennan",
+    "age": 22,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 70 bpm"
+  }
+]

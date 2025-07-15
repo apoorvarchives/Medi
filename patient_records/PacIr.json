@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PacIr",
+    "name": "Chelsea Mills",
+    "age": 50,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 88 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PPTAD",
+    "name": "Renee Harvey",
+    "age": 61,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 66 bpm"
+  }
+]

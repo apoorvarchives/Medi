@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pstay",
+    "name": "Carla Price",
+    "age": 22,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 98 bpm"
+  }
+]

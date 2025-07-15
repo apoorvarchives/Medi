@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PkAyA",
+    "name": "David Lee",
+    "age": 28,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 69 bpm"
+  }
+]

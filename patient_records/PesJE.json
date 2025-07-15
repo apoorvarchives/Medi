@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PesJE",
+    "name": "Tamara Smith",
+    "age": 63,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 68 bpm"
+  }
+]

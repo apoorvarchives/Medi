@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PqMKF",
+    "name": "Christopher Vang",
+    "age": 37,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 88 bpm"
+  }
+]

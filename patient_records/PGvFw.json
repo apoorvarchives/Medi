@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PGvFw",
+    "name": "Sharon Mcclure",
+    "age": 56,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 79 bpm"
+  }
+]

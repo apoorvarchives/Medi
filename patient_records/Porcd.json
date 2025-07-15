@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Porcd",
+    "name": "Zachary Harris",
+    "age": 28,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYDqG",
+    "name": "Paul Burgess",
+    "age": 40,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 83 bpm"
+  }
+]

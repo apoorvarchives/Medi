@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PRXsc",
+    "name": "Kyle Giles",
+    "age": 55,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

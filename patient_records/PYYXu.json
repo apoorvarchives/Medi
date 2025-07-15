@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYYXu",
+    "name": "Terri House",
+    "age": 61,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 60 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PgNen",
+    "name": "Robert Jones",
+    "age": 29,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 80 bpm"
+  }
+]

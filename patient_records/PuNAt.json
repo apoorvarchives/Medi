@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PuNAt",
+    "name": "Lori Strickland",
+    "age": 34,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 72 bpm"
+  }
+]

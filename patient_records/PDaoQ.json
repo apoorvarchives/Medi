@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDaoQ",
+    "name": "Morgan Brewer",
+    "age": 20,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 61 bpm"
+  }
+]

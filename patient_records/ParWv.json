@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "ParWv",
+    "name": "Jamie Ortega",
+    "age": 66,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 90 bpm"
+  }
+]

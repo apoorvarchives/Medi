@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PyOoz",
+    "name": "Charles Morris",
+    "age": 39,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 91 bpm"
+  }
+]

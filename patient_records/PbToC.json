@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PbToC",
+    "name": "Sherry Schneider",
+    "age": 81,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 62 bpm"
+  }
+]

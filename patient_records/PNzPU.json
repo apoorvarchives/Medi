@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNzPU",
+    "name": "Jenny Brown",
+    "age": 61,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 77 bpm"
+  }
+]

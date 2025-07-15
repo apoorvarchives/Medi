@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PuKJj",
+    "name": "Michele York",
+    "age": 65,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

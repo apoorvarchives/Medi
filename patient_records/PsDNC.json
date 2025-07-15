@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PsDNC",
+    "name": "Darin Wall",
+    "age": 44,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 86 bpm"
+  }
+]

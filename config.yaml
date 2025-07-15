@@ -1,0 +1,14 @@
+nodes:
+  Hospital_A:
+  Hospital_B:
+  Lab_X:
+
+num_clients: 5
+num_rounds: 4
+lr: 0.01
+momentum: 0.9
+clients_per_round: 5     # <– number of patients per hospital per FL round
+block_size: 6            # <– block size threshold before PoW
+t_wait: 5
+delta: 1
+difficulty: 4

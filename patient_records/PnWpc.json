@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PnWpc",
+    "name": "Alexander Charles",
+    "age": 80,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 77 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PYUGc",
+    "name": "Samuel Snyder",
+    "age": 76,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 81 bpm"
+  }
+]

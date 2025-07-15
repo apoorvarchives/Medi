@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pollg",
+    "name": "Todd Washington",
+    "age": 74,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 96 bpm"
+  }
+]

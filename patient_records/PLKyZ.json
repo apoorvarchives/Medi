@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLKyZ",
+    "name": "Jenny Hardy",
+    "age": 85,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 61 bpm"
+  }
+]

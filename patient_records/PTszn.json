@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTszn",
+    "name": "Andrew Russell",
+    "age": 25,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 71 bpm"
+  }
+]

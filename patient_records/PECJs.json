@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PECJs",
+    "name": "Elizabeth Wood MD",
+    "age": 69,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 94 bpm"
+  }
+]

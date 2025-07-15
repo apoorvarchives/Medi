@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PUerM",
+    "name": "Angela Davis",
+    "age": 41,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 79 bpm"
+  }
+]

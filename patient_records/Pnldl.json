@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Pnldl",
+    "name": "Tony Valdez",
+    "age": 29,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 83 bpm"
+  }
+]

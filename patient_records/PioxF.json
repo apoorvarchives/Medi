@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PioxF",
+    "name": "Walter Matthews",
+    "age": 35,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 87 bpm"
+  }
+]

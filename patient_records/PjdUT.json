@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PjdUT",
+    "name": "Stacey Lamb",
+    "age": 84,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 99 bpm"
+  }
+]

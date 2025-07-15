@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PWwHk",
+    "name": "Robert Mccarthy",
+    "age": 60,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 88 bpm"
+  }
+]

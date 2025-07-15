@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PebAz",
+    "name": "Malik Raymond",
+    "age": 25,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 67 bpm"
+  }
+]

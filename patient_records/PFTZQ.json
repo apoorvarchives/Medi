@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PFTZQ",
+    "name": "Tamara Rodriguez",
+    "age": 71,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 85 bpm"
+  }
+]

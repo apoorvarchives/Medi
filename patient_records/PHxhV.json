@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PHxhV",
+    "name": "Kelly Wright",
+    "age": 82,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 78 bpm"
+  }
+]

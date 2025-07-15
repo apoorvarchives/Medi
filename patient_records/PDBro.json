@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDBro",
+    "name": "Carla Calhoun",
+    "age": 31,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 91 bpm"
+  }
+]

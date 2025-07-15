@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PshYa",
+    "name": "Chad Conner",
+    "age": 75,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 98 bpm"
+  }
+]

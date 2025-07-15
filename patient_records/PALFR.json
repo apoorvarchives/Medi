@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PALFR",
+    "name": "Katie Miller",
+    "age": 36,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 79 bpm"
+  }
+]

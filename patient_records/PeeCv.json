@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PeeCv",
+    "name": "Luke Love",
+    "age": 28,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 62 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PgnIm",
+    "name": "Steven Evans",
+    "age": 55,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 71 bpm"
+  }
+]

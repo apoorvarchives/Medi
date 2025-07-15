@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PnmyD",
+    "name": "James Lawson",
+    "age": 34,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 74 bpm"
+  }
+]

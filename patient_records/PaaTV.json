@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PaaTV",
+    "name": "Scott Martin",
+    "age": 65,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 66 bpm"
+  }
+]

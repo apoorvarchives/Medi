@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PhCKr",
+    "name": "Sarah Sharp",
+    "age": 66,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 85 bpm"
+  }
+]

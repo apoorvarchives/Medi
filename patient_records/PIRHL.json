@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PIRHL",
+    "name": "Joseph Jackson",
+    "age": 61,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 90 bpm"
+  }
+]

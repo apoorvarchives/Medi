@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSRpy",
+    "name": "Janet Nguyen",
+    "age": 35,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 72 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDBoM",
+    "name": "Emily Mclaughlin",
+    "age": 43,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 99 bpm"
+  }
+]

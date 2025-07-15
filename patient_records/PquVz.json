@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PquVz",
+    "name": "Michael Ward",
+    "age": 58,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 72 bpm"
+  }
+]

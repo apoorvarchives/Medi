@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PkLpz",
+    "name": "Dustin Chapman",
+    "age": 30,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 98 bpm"
+  }
+]

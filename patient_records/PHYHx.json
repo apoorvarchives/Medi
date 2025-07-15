@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PHYHx",
+    "name": "Aaron Wilson",
+    "age": 41,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 71 bpm"
+  }
+]

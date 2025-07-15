@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PIKuG",
+    "name": "Patricia Smith",
+    "age": 34,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 91 bpm"
+  }
+]

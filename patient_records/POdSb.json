@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POdSb",
+    "name": "Bobby Mitchell",
+    "age": 45,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 75 bpm"
+  }
+]

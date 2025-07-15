@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTjim",
+    "name": "Ryan Trujillo",
+    "age": 68,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 97 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAwun",
+    "name": "Melanie Newman",
+    "age": 72,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 63 bpm"
+  }
+]

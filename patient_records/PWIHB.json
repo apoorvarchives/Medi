@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PWIHB",
+    "name": "Ashley Powers",
+    "age": 23,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 81 bpm"
+  }
+]

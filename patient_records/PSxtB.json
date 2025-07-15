@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PSxtB",
+    "name": "Amy Graham",
+    "age": 59,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 77 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrLEl",
+    "name": "Ronnie Riley",
+    "age": 33,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 78 bpm"
+  }
+]

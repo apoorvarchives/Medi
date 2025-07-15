@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PvhIj",
+    "name": "Robert Robinson",
+    "age": 48,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 70 bpm"
+  }
+]

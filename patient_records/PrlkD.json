@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrlkD",
+    "name": "James Burns",
+    "age": 80,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 95 bpm"
+  }
+]

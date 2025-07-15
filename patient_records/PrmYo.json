@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrmYo",
+    "name": "Christina Stanley",
+    "age": 36,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 77 bpm"
+  }
+]

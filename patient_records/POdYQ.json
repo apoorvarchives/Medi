@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "POdYQ",
+    "name": "Rebecca Butler",
+    "age": 74,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 80 bpm"
+  }
+]

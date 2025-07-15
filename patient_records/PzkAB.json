@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PzkAB",
+    "name": "Stephen Drake",
+    "age": 57,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 92 bpm"
+  }
+]

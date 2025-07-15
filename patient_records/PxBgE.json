@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PxBgE",
+    "name": "Joseph Dunn",
+    "age": 22,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 95 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PFCHI",
+    "name": "April Campbell",
+    "age": 52,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 95 bpm"
+  }
+]

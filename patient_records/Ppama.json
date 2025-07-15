@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Ppama",
+    "name": "Theresa Mcdonald",
+    "age": 78,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 100 bpm"
+  }
+]

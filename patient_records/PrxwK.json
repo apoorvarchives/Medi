@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PrxwK",
+    "name": "Angie Phillips",
+    "age": 56,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 83 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PLAcO",
+    "name": "Lisa Marquez",
+    "age": 30,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 78 bpm"
+  }
+]

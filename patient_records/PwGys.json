@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PwGys",
+    "name": "Larry Hayes",
+    "age": 42,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 89 bpm"
+  }
+]

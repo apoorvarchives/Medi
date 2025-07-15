@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PaBbq",
+    "name": "Jennifer Kelley",
+    "age": 52,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 68 bpm"
+  }
+]

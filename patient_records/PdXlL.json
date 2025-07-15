@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PdXlL",
+    "name": "Jerome Kelley",
+    "age": 21,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 87 bpm"
+  }
+]

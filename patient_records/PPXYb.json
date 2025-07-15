@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PPXYb",
+    "name": "Amber Saunders",
+    "age": 81,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 66 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDTIK",
+    "name": "Ann Schmidt",
+    "age": 45,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 92 bpm"
+  }
+]

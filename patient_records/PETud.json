@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PETud",
+    "name": "Kathleen Ball",
+    "age": 51,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 66 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PmRtz",
+    "name": "Kathryn Martin",
+    "age": 26,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 74 bpm"
+  }
+]

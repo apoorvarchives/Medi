@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PmqZx",
+    "name": "Brooke Smith",
+    "age": 63,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 91 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDcyh",
+    "name": "Kevin Castillo",
+    "age": 31,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 98 bpm"
+  }
+]

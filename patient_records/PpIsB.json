@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PpIsB",
+    "name": "Jennifer Moore",
+    "age": 26,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 85 bpm"
+  }
+]

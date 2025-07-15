@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PlVdO",
+    "name": "Tracy Thompson",
+    "age": 54,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 90 bpm"
+  }
+]

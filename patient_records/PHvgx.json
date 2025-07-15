@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PHvgx",
+    "name": "Sean Rios",
+    "age": 62,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 76 bpm"
+  }
+]

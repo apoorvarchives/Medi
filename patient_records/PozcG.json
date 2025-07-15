@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PozcG",
+    "name": "Christine Miller",
+    "age": 26,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 100 bpm"
+  }
+]

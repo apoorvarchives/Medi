@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PWRtM",
+    "name": "Anthony Cordova",
+    "age": 78,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 96 bpm"
+  }
+]

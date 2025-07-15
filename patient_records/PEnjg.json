@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PEnjg",
+    "name": "Benjamin Gilbert",
+    "age": 38,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 83 bpm"
+  }
+]

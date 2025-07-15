@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PJoCg",
+    "name": "Nicole Griffin",
+    "age": 52,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 82 bpm"
+  }
+]

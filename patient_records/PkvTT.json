@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PkvTT",
+    "name": "Brian Martinez",
+    "age": 77,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 78 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PiNwM",
+    "name": "James Reyes",
+    "age": 65,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 99 bpm"
+  }
+]

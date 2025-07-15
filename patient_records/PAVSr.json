@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PAVSr",
+    "name": "Mrs. Amber Crane PhD",
+    "age": 69,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 76 bpm"
+  }
+]

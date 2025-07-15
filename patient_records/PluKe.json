@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PluKe",
+    "name": "Joshua Foster",
+    "age": 74,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 60 bpm"
+  }
+]

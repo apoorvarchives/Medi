@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PfwLA",
+    "name": "Caitlin Gonzalez",
+    "age": 57,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PceDM",
+    "name": "Manuel Fox",
+    "age": 63,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 97 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PCrdQ",
+    "name": "David Hart",
+    "age": 81,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 90 bpm"
+  }
+]

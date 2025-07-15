@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PJRCL",
+    "name": "Belinda Thornton",
+    "age": 60,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 62 bpm"
+  }
+]

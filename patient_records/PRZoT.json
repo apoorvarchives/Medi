@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PRZoT",
+    "name": "Adam Moran",
+    "age": 85,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 73 bpm"
+  }
+]

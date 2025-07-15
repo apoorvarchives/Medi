@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PVDpn",
+    "name": "John Curtis",
+    "age": 46,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 67 bpm"
+  }
+]

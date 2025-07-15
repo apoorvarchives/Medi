@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PNZZB",
+    "name": "Victoria Park",
+    "age": 62,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 62 bpm"
+  }
+]

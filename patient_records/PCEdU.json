@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PCEdU",
+    "name": "William Jones",
+    "age": 26,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 84 bpm"
+  }
+]

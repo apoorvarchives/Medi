@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PkcJD",
+    "name": "Tiffany Hill",
+    "age": 43,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 76 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PDXIX",
+    "name": "Dr. Cheyenne Vasquez",
+    "age": 81,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 85 bpm"
+  }
+]

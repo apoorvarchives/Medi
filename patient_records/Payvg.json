@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "Payvg",
+    "name": "Justin Carr",
+    "age": 53,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 94 bpm"
+  }
+]

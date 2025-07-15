@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PTUWt",
+    "name": "Michael Williams",
+    "age": 58,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 94 bpm"
+  }
+]
