@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0037",
+    "name": "Deanna Arnold",
+    "age": 56,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 76 bpm"
+  }
+]

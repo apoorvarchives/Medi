@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0055",
+    "name": "Tracy Young",
+    "age": 22,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 70 bpm"
+  }
+]

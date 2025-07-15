@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0034",
+    "name": "Scott Young",
+    "age": 45,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 75 bpm"
+  }
+]

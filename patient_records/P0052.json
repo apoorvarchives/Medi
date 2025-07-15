@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0052",
+    "name": "Judy Diaz",
+    "age": 57,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 99 bpm"
+  }
+]

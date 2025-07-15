@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0060",
+    "name": "Adam Williams",
+    "age": 36,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 68 bpm"
+  }
+]

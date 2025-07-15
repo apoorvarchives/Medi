@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0054",
+    "name": "Karen Peterson",
+    "age": 85,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 88 bpm"
+  }
+]

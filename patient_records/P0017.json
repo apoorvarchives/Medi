@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0017",
+    "name": "Amy Robbins",
+    "age": 29,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 91 bpm"
+  }
+]

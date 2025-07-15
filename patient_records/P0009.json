@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0009",
+    "name": "Terry Johnston",
+    "age": 20,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 97 bpm"
+  }
+]

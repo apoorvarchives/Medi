@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0025",
+    "name": "Thomas Mckinney",
+    "age": 65,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 98 bpm"
+  }
+]

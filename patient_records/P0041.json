@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0041",
+    "name": "Sarah Sparks",
+    "age": 71,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 96 bpm"
+  }
+]

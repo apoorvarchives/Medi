@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0036",
+    "name": "Tiffany Mack",
+    "age": 73,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 71 bpm"
+  }
+]

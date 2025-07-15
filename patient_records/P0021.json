@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0021",
+    "name": "Derrick Garner",
+    "age": 67,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 100 bpm"
+  }
+]

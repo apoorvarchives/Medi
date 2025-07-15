@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0049",
+    "name": "Jimmy Mcgee",
+    "age": 64,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 71 bpm"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0033",
+    "name": "Jaime Scott",
+    "age": 22,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 73 bpm"
+  }
+]

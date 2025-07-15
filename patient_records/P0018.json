@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0018",
+    "name": "Wanda Koch",
+    "age": 43,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

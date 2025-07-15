@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0042",
+    "name": "Brandon Henry",
+    "age": 61,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 69 bpm"
+  }
+]

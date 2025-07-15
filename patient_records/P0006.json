@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0006",
+    "name": "Janet Rodriguez",
+    "age": 48,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 61 bpm"
+  }
+]

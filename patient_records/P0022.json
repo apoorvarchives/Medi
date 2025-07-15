@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0022",
+    "name": "Susan Bailey",
+    "age": 68,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 87 bpm"
+  }
+]

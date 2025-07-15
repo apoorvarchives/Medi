@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0059",
+    "name": "Kevin Herrera",
+    "age": 40,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 63 bpm"
+  }
+]

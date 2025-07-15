@@ -5118,5 +5118,969 @@
     "hash": "00005e0f061c28cb99486aa65cb5cfaddb4640f716ab59da2e424d1b54efa5a2",
     "signature": "888e11daf84dccb0130324fbd9228bacb2abb084606f75fc14d9ba253f8679c05f4d792ec0b04545008df279d9d3fcf5b2aefa7db91cfba51f6da3d560a74b05",
     "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMEgCQQC+yhS6CkUQdWrbosIJjsG/NnJ/k6kgPr3bIDG7z8HyqTEJFJnfAEDvydyj\nuy6g1GDfuoMIN5O2ZWr+RqiE/H4lAgMBAAE=\n-----END RSA PUBLIC KEY-----\n"
+  },
+  {
+    "index": 13,
+    "records": [
+      {
+        "patient_id": "P0001",
+        "name": "Rebecca Wilkerson",
+        "age": 31,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 81 bpm"
+      },
+      {
+        "patient_id": "P0002",
+        "name": "Margaret Woodward",
+        "age": 35,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 99 bpm"
+      },
+      {
+        "patient_id": "P0003",
+        "name": "Michael Navarro",
+        "age": 81,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 67 bpm"
+      },
+      {
+        "patient_id": "P0004",
+        "name": "James Davis",
+        "age": 64,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 80 bpm"
+      },
+      {
+        "patient_id": "P0005",
+        "name": "Jennifer Chambers",
+        "age": 34,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 97 bpm"
+      },
+      {
+        "patient_id": "P0006",
+        "name": "Janet Rodriguez",
+        "age": 48,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 61 bpm"
+      },
+      {
+        "patient_id": "P0007",
+        "name": "Amanda Williams",
+        "age": 61,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 60 bpm"
+      },
+      {
+        "patient_id": "P0008",
+        "name": "Joseph Smith",
+        "age": 77,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 66 bpm"
+      },
+      {
+        "patient_id": "P0009",
+        "name": "Terry Johnston",
+        "age": 20,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 97 bpm"
+      },
+      {
+        "patient_id": "P0010",
+        "name": "Lisa Lopez",
+        "age": 66,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 71 bpm"
+      },
+      {
+        "patient_id": "P0011",
+        "name": "Lauren Armstrong",
+        "age": 75,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 62 bpm"
+      },
+      {
+        "patient_id": "P0012",
+        "name": "Wyatt Lewis",
+        "age": 34,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 73 bpm"
+      },
+      {
+        "patient_id": "P0013",
+        "name": "Bryan Brown",
+        "age": 71,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 75 bpm"
+      },
+      {
+        "patient_id": "P0014",
+        "name": "Jennifer Cannon",
+        "age": 21,
+        "gender": "Female",
+        "record_type": "Blood Test",
+        "vitals": "HR 74 bpm"
+      },
+      {
+        "patient_id": "P0015",
+        "name": "Lisa Ramirez",
+        "age": 23,
+        "gender": "Female",
+        "record_type": "Blood Test",
+        "vitals": "HR 79 bpm"
+      }
+    ],
+    "access_logs": [
+      {
+        "record_hash": "149adc499106e820f6254a353767ca2001b28e71483701d5e40755bbcf451db7",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.427915,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "102397bc098f2566c3dbe81abd02ff5b0d7f4d1b1f388a10482e4cd7f52d0f07",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.4281979,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "421ad32bbb34f77354e130e2495afc31171a7ed66e1ec4f811234b0c6905e208",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.4284632,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "124adc585d6d10cb8242f2a4eb3adfcc9d7632fd88d154cb0b343b85f83be760",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.428694,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "6dc01dd59a1abde915d6f9829cd3236110e86b551fb61dbfe041df517935866a",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.428925,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "4523a742c43383bf481456936a73fd20b93fadaf29f6e615fb5b3d4274129b6c",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.429124,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "6b38770729647cf4e4d355a96a25517d79d05ffd69ad7e3aa0e29f5d7c3bd49d",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.429323,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "a1dda8e9003f4395dde5c06003e2a84a4463d925451c863dfed64dc9d0215b42",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.429554,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "8c7ae05d841fd088bc0024bc9e4cbd265268ca09b0e25fb7f34a1717e083f39b",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.429753,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "525a327d19be22a351aed5d223eb53c23aeb8fc2d3a22a2586ba6429e43de663",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.429931,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "8bb21c86390b1845f552d725d0cbbd215e73fd28558a8af121713e96554d3313",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.430105,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "d2ef59814f3a948da4b58989b5812c2e88c042c9700a010c2127638ca9e47d8d",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.4302762,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "d586a1170a3fd08ab125d046edffa45a061874b5599e28dcf7d6c73af6554c1f",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.430489,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "12a404384472def3054575114034020f5100b86d6cf96ab12abd5b65943b9327",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.430659,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "e5b83b5973aa5dc5a58daa5f1587090390055691d842c217bcbc2d917382d056",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592834.43083,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      }
+    ],
+    "previous_hash": "00005e0f061c28cb99486aa65cb5cfaddb4640f716ab59da2e424d1b54efa5a2",
+    "timestamp": 1752592835.009575,
+    "nonce": 590,
+    "miner": "Hospital_B",
+    "model_hash": "f9ff238d822e112f035c4a38f20d2ecc2192fbdffea1602cdd7149df674b6bb7",
+    "difficulty": 4,
+    "hash": "0000a6e4d9c7f597160cb27fe460b3802f5fd3c9727466ba76a034cd1f04cd51",
+    "signature": "94738a8c091531594c29891256f53d3b6e5c32db29820597a8e6b1630fa29e620b44ca92da9edcf7023610957674b9f4dcd6510ae2137c7789bc983d1bbce37a",
+    "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMEgCQQCXGq/jDMD0PuJZ866VzvCGBlxEBmBVBh/xFI+8s5zrHNV3TlBN7hAllcn/\n3pSdZda1+FGlOoroM7JepAvSHVQJAgMBAAE=\n-----END RSA PUBLIC KEY-----\n"
+  },
+  {
+    "index": 14,
+    "records": [
+      {
+        "patient_id": "P0016",
+        "name": "Anita Mendez",
+        "age": 45,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 60 bpm"
+      },
+      {
+        "patient_id": "P0017",
+        "name": "Amy Robbins",
+        "age": 29,
+        "gender": "Male",
+        "record_type": "MRI",
+        "vitals": "HR 91 bpm"
+      },
+      {
+        "patient_id": "P0018",
+        "name": "Wanda Koch",
+        "age": 43,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 61 bpm"
+      },
+      {
+        "patient_id": "P0019",
+        "name": "Angelica Clark",
+        "age": 55,
+        "gender": "Female",
+        "record_type": "MRI",
+        "vitals": "HR 66 bpm"
+      },
+      {
+        "patient_id": "P0020",
+        "name": "Benjamin Barton",
+        "age": 83,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 67 bpm"
+      },
+      {
+        "patient_id": "P0021",
+        "name": "Derrick Garner",
+        "age": 67,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 100 bpm"
+      },
+      {
+        "patient_id": "P0022",
+        "name": "Susan Bailey",
+        "age": 68,
+        "gender": "Female",
+        "record_type": "MRI",
+        "vitals": "HR 87 bpm"
+      },
+      {
+        "patient_id": "P0023",
+        "name": "Douglas Scott",
+        "age": 65,
+        "gender": "Female",
+        "record_type": "Blood Test",
+        "vitals": "HR 98 bpm"
+      },
+      {
+        "patient_id": "P0024",
+        "name": "Lisa Martinez",
+        "age": 46,
+        "gender": "Male",
+        "record_type": "MRI",
+        "vitals": "HR 69 bpm"
+      },
+      {
+        "patient_id": "P0025",
+        "name": "Thomas Mckinney",
+        "age": 65,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 98 bpm"
+      },
+      {
+        "patient_id": "P0026",
+        "name": "Melissa Sanchez",
+        "age": 54,
+        "gender": "Female",
+        "record_type": "Blood Test",
+        "vitals": "HR 74 bpm"
+      },
+      {
+        "patient_id": "P0027",
+        "name": "Terrance Curry",
+        "age": 35,
+        "gender": "Female",
+        "record_type": "MRI",
+        "vitals": "HR 80 bpm"
+      },
+      {
+        "patient_id": "P0028",
+        "name": "Mrs. Nicole Oconnor MD",
+        "age": 40,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 77 bpm"
+      },
+      {
+        "patient_id": "P0029",
+        "name": "Johnathan Good",
+        "age": 77,
+        "gender": "Male",
+        "record_type": "Prescription",
+        "vitals": "HR 84 bpm"
+      },
+      {
+        "patient_id": "P0030",
+        "name": "Anna Gonzalez",
+        "age": 60,
+        "gender": "Male",
+        "record_type": "Prescription",
+        "vitals": "HR 83 bpm"
+      }
+    ],
+    "access_logs": [
+      {
+        "record_hash": "cf3ed79c1a88fd93320c8a9121f83eef34bed8d7707f60d4b891e2869a629d87",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.10488,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "5c3417691f7e1aa9c396a8bfc2d8a6ea9ed0120627cb5c877f5aa5d9970f2659",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.106601,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "cf387c2a6243dd90f83b7e0567412840468d899422583314c7bfbe1d9d7658d5",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.107517,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "f3b04ec8d99a2d8c5fc0e39e69c9b27b5a9ac96a8f66c971a1ebc9dd27620998",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.108701,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "a19e09e54ec609115d7e1bd768f708bc45b2c785a2303bb76c2144d6810bd338",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.10954,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "ac899e4c5922aebd33439bc97a1a059b5815a0b5256ef690844328df5d71bb56",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.110234,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "19edd4e198247a25ef8265193ca44ce3f2ba764491d75a71bdd0e0a1c652a768",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.11082,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "288777b3e72aef95eebf814509026b7832a3874b8b3fb84402ff59493d097f21",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.111359,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "c9b5015c77bc81bb34899e8e0eeeaeb48900014e9dc3a3122eaff1f09ef20423",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.1118772,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "55cba137487e04022be5006bd1e5e64f08af922e3891ff3eab58cdc3df0477c2",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.11264,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "9fc548aa20afe0a871c366a7b6470e5fb43a349885b890decf6f2eac7fee530c",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.113121,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "4998efd5823f366d648474e780357932f9f76b19f196d60cccc1ea9229d81e1d",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.1138291,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "96237158cbb198605ed3cf842f46098cfee0ecd8e698ab9c29bad9b307b2a386",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.114697,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "684ec0f4b23ac4f4899af8b1f823384588b1b50ef9669656534505409828cbe7",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.115062,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "9ddcfd9b226f4108c477dcca27fab6ff8bccc7ed1a9351c2aa1fa291936e4232",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592839.115309,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      }
+    ],
+    "previous_hash": "0000a6e4d9c7f597160cb27fe460b3802f5fd3c9727466ba76a034cd1f04cd51",
+    "timestamp": 1752592839.124644,
+    "nonce": 12660,
+    "miner": "Hospital_A",
+    "model_hash": "4601f7e954ffa4bbd96872f7bb74ab06f0e9fb5f99709100c2753552f4e1af6e",
+    "difficulty": 4,
+    "hash": "00007d537d80e69181759d40e3af3db3a63a07b2ab7da9658a321b33da2efd47",
+    "signature": "614c337f9e18ba3f11c5674811043db630428fb97791335d6230a9a7cdf4ae603b05689dc0eccdf36a041c454debf4183093a542b0bcaba5e8c252dbcbd54604",
+    "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMEgCQQC+NM7nhl5MR4I3Q3PWii3qzzH7sAOdBQaz1kiQp29qbnIMzMZU3QTFipGW\nsrnenUIiXV16o3OtX5tUyZHdbYKRAgMBAAE=\n-----END RSA PUBLIC KEY-----\n"
+  },
+  {
+    "index": 15,
+    "records": [
+      {
+        "patient_id": "P0031",
+        "name": "Holly Lawrence",
+        "age": 43,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 65 bpm"
+      },
+      {
+        "patient_id": "P0032",
+        "name": "Tyler Gonzalez",
+        "age": 68,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 89 bpm"
+      },
+      {
+        "patient_id": "P0033",
+        "name": "Jaime Scott",
+        "age": 22,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 73 bpm"
+      },
+      {
+        "patient_id": "P0034",
+        "name": "Scott Young",
+        "age": 45,
+        "gender": "Female",
+        "record_type": "MRI",
+        "vitals": "HR 75 bpm"
+      },
+      {
+        "patient_id": "P0035",
+        "name": "Aaron Palmer",
+        "age": 37,
+        "gender": "Female",
+        "record_type": "MRI",
+        "vitals": "HR 65 bpm"
+      },
+      {
+        "patient_id": "P0036",
+        "name": "Tiffany Mack",
+        "age": 73,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 71 bpm"
+      },
+      {
+        "patient_id": "P0037",
+        "name": "Deanna Arnold",
+        "age": 56,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 76 bpm"
+      },
+      {
+        "patient_id": "P0038",
+        "name": "Rebecca Berry",
+        "age": 59,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 82 bpm"
+      },
+      {
+        "patient_id": "P0039",
+        "name": "Casey Stewart",
+        "age": 33,
+        "gender": "Female",
+        "record_type": "Blood Test",
+        "vitals": "HR 75 bpm"
+      },
+      {
+        "patient_id": "P0040",
+        "name": "Aaron Jones Jr.",
+        "age": 38,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 81 bpm"
+      },
+      {
+        "patient_id": "P0041",
+        "name": "Sarah Sparks",
+        "age": 71,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 96 bpm"
+      },
+      {
+        "patient_id": "P0042",
+        "name": "Brandon Henry",
+        "age": 61,
+        "gender": "Male",
+        "record_type": "Prescription",
+        "vitals": "HR 69 bpm"
+      },
+      {
+        "patient_id": "P0043",
+        "name": "Hannah Tran",
+        "age": 44,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 72 bpm"
+      },
+      {
+        "patient_id": "P0044",
+        "name": "Jennifer Murphy",
+        "age": 68,
+        "gender": "Male",
+        "record_type": "Prescription",
+        "vitals": "HR 61 bpm"
+      },
+      {
+        "patient_id": "P0045",
+        "name": "David Reyes",
+        "age": 68,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 78 bpm"
+      }
+    ],
+    "access_logs": [
+      {
+        "record_hash": "edc60479fc8718d10c40c5bd8e28f75e8a1e1368311fdf387e24cbe1b9a97365",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.5778618,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "138432bde8d88d0b8761c2601436b17d585ded5802a69f7a2b2535d16dacbfb0",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.578409,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "70d7c761b71686d83e8087798abfaef0a15c7aa3cd5e0c8b6ccf730a6e57b2df",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.5787299,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "7d7d19b718296a9c7c9bb1cd7686a8dbc400d4e1550cff1f8744cce17b5b6a07",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.5789912,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "106e0bfe8bbfd92e91d41dbe24ea5ad636f0cf575ec7b1a125b188a5c6f35ff0",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.579222,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "1e20de32025c11ef0b14635dc71a305e54fb61c5821ddbcbe5cadc415042f20f",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.579468,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "10555bbe13f6495572c4e4eae7062237165c61864ee9bf110f5623e336dd9df9",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.579678,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "5ce1fc45a98d5c0f24099d35a5c44ce4eb8c2f772773fc02e075926cb9c32de9",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.579891,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "651059880a03367344dce08cb81590eb7baeeb6b8d6a4f7fdd785634a2d6f0f5",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.5801039,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "d9b296e6042a2e09092f0a470aba9048db3e6617fb20e64be448502226e1db74",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.581491,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "0016f124f755982c37f535142ac67f359a20d2fbb7b16bbe3cfa033a71fa672b",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.581999,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "1e74472ed1bfb33056eb1b53a9fcfc7936a5ff13d6663b671176c7d89520d712",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.582207,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "49c1635afd5eab37c15c5b035c4d2516a96c7a864c62589feadb98a479ded737",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.582496,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "87f3a29b22407eb8f44ddd17aa05e1124dd5acbacdb24bc7a1e6acb05339d210",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.582996,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "5767f8e9b11d9726997e23cf26dff70cc999a417b655d0e9e7cea84d3b5b70eb",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592845.583207,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      }
+    ],
+    "previous_hash": "00007d537d80e69181759d40e3af3db3a63a07b2ab7da9658a321b33da2efd47",
+    "timestamp": 1752592845.648844,
+    "nonce": 14632,
+    "miner": "Lab_X",
+    "model_hash": "eb4d959ef75529231623adf0b13d0b855bb0462b40cdcd5ff1a544a9f9ae6afc",
+    "difficulty": 4,
+    "hash": "00005a7042485f08b5dbb0a707c36dfe27adf37efb5cb0ab704511048d659de8",
+    "signature": "294b23e6c0f91e9a2d9725bfa6c58c91c94302f8cfc12acf8d11c3d11882ded8f23a2833b2296189957c212ab2243dfb92e15dbace03a540473daa5dc78dd090",
+    "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMEgCQQCCYZNecOSgpZcrF5koSpTx9tybfNXIvE2eT8Jp20uRr0rMjNVCq39PmG3m\ni+NGtAyEA6tfXY9dth/YkyOTxjEVAgMBAAE=\n-----END RSA PUBLIC KEY-----\n"
+  },
+  {
+    "index": 16,
+    "records": [
+      {
+        "patient_id": "P0046",
+        "name": "Stephanie Herrera",
+        "age": 30,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 99 bpm"
+      },
+      {
+        "patient_id": "P0047",
+        "name": "Chelsea Shea",
+        "age": 51,
+        "gender": "Female",
+        "record_type": "MRI",
+        "vitals": "HR 75 bpm"
+      },
+      {
+        "patient_id": "P0048",
+        "name": "Alicia Jensen",
+        "age": 22,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 71 bpm"
+      },
+      {
+        "patient_id": "P0049",
+        "name": "Jimmy Mcgee",
+        "age": 64,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 71 bpm"
+      },
+      {
+        "patient_id": "P0050",
+        "name": "Hunter Bowers",
+        "age": 58,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 70 bpm"
+      },
+      {
+        "patient_id": "P0051",
+        "name": "Aaron Hayes",
+        "age": 63,
+        "gender": "Male",
+        "record_type": "Blood Test",
+        "vitals": "HR 88 bpm"
+      },
+      {
+        "patient_id": "P0052",
+        "name": "Judy Diaz",
+        "age": 57,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 99 bpm"
+      },
+      {
+        "patient_id": "P0053",
+        "name": "Julia Sanchez",
+        "age": 60,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 68 bpm"
+      },
+      {
+        "patient_id": "P0054",
+        "name": "Karen Peterson",
+        "age": 85,
+        "gender": "Female",
+        "record_type": "CT Scan",
+        "vitals": "HR 88 bpm"
+      },
+      {
+        "patient_id": "P0055",
+        "name": "Tracy Young",
+        "age": 22,
+        "gender": "Male",
+        "record_type": "Prescription",
+        "vitals": "HR 70 bpm"
+      },
+      {
+        "patient_id": "P0056",
+        "name": "Lisa Smith",
+        "age": 28,
+        "gender": "Male",
+        "record_type": "MRI",
+        "vitals": "HR 95 bpm"
+      },
+      {
+        "patient_id": "P0057",
+        "name": "Kevin Hernandez",
+        "age": 30,
+        "gender": "Female",
+        "record_type": "Blood Test",
+        "vitals": "HR 69 bpm"
+      },
+      {
+        "patient_id": "P0058",
+        "name": "Regina Sawyer",
+        "age": 77,
+        "gender": "Male",
+        "record_type": "CT Scan",
+        "vitals": "HR 68 bpm"
+      },
+      {
+        "patient_id": "P0059",
+        "name": "Kevin Herrera",
+        "age": 40,
+        "gender": "Male",
+        "record_type": "MRI",
+        "vitals": "HR 63 bpm"
+      },
+      {
+        "patient_id": "P0060",
+        "name": "Adam Williams",
+        "age": 36,
+        "gender": "Female",
+        "record_type": "Prescription",
+        "vitals": "HR 68 bpm"
+      }
+    ],
+    "access_logs": [
+      {
+        "record_hash": "775dca45e81a4580f556e5755e7a27874a79ea57462810f93c6b2d253ab567e5",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.042851,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "71909ba3c9a3a51d5e8cf24a2ccc31d4daf251ccd90c4452956b9e877f9b3ae0",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.043225,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "3207d3da82030fe18800fbd00f082912a931c05c680f796d050f66c291fb720b",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.043547,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "041c853d219d75f39b0a4615a27383e2ea1780fecee3cd294d1e96761b878d5a",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.043856,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "4f039b0d960725a91d0d35c445a5fbadfd08ba3379c5773d3ae1ab9136488592",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.044128,
+        "approved_by_patient": true,
+        "contributor": "Hospital_A"
+      },
+      {
+        "record_hash": "25be120262c54c3333967026c7e09036430c6ea46efeab3e8d46039a68fcda5f",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.0444212,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "74d968a708d7c5bb09471e3992c8ff753edee7cf7d91e3ecd8920c6c25f91bcf",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.044681,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "ac362d351ed5538b5ade10a3661eab38f6de844f63e1a33e4fc83ca8fa57cd19",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.044929,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "728874c5e894e62ab43886ba750b8c875c35e1b3555853f0738381a661aeae09",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.045197,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "9cc65170ab567a61428b9bb9c5a56a748b4780676443e9d005aaf0ff73d50085",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.045467,
+        "approved_by_patient": true,
+        "contributor": "Hospital_B"
+      },
+      {
+        "record_hash": "8773909d4473b1227eb66079908d10dbe6c28cd5d8c7fb3aa060108e2a350ed8",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.045728,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "585eda2303a023a95c051f9e10adee7f49aa6137ed4ad382291c0032b37e0ecf",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.045996,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "5b20976961d294d02f9b11c728b392cfa4bf2f322a6cfa556c1583c38b560e45",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.0466912,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "b2468c97cd3ea4843d9a0fcc7d7e1f61d1419242c5540043214c6df150108d0b",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.047149,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      },
+      {
+        "record_hash": "72ec587e95996ed09633225047ae70fd0485d3e33ee37d7c45044e11f5e8269f",
+        "accessed_by": "FederatedModel",
+        "timestamp": 1752592853.047487,
+        "approved_by_patient": true,
+        "contributor": "Lab_X"
+      }
+    ],
+    "previous_hash": "00005a7042485f08b5dbb0a707c36dfe27adf37efb5cb0ab704511048d659de8",
+    "timestamp": 1752592853.058656,
+    "nonce": 3738,
+    "miner": "Hospital_A",
+    "model_hash": "54e24e16dce094e815fa65215c4fd712badc24d769c16d820af71974e94ca0e5",
+    "difficulty": 4,
+    "hash": "0000664923ed24ee1880d6bb42bc543f2dd0b97162068f0861cb48168789a328",
+    "signature": "6fe068f43acc2b437e9f003c3e82768dd89e6f14592facb7bb0b922d65f0f0af5646c42295eb79f228b2628733aba32012dcd8dc191e6a3541a7de129a196118",
+    "public_key": "-----BEGIN RSA PUBLIC KEY-----\nMEgCQQC+NM7nhl5MR4I3Q3PWii3qzzH7sAOdBQaz1kiQp29qbnIMzMZU3QTFipGW\nsrnenUIiXV16o3OtX5tUyZHdbYKRAgMBAAE=\n-----END RSA PUBLIC KEY-----\n"
   }
 ]

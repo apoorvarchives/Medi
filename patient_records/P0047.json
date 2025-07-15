@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0047",
+    "name": "Chelsea Shea",
+    "age": 51,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 75 bpm"
+  }
+]

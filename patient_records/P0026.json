@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0026",
+    "name": "Melissa Sanchez",
+    "age": 54,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 74 bpm"
+  }
+]

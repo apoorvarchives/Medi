@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0053",
+    "name": "Julia Sanchez",
+    "age": 60,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 68 bpm"
+  }
+]

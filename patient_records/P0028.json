@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0028",
+    "name": "Mrs. Nicole Oconnor MD",
+    "age": 40,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 77 bpm"
+  }
+]

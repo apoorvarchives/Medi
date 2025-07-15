@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0020",
+    "name": "Benjamin Barton",
+    "age": 83,
+    "gender": "Male",
+    "record_type": "Blood Test",
+    "vitals": "HR 67 bpm"
+  }
+]

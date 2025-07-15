@@ -7,25 +7,29 @@ import os
 import json
 import torch
 from faker import Faker
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from torch.utils.data import DataLoader, TensorDataset
-
 from ehr_chain import EHRChain
 from fl_trainer import FLTrainer
 from miner import Miner
 from server import Server
 from fl_node import FLNode
-from visualize import visualize_chain  # 🔁 we'll generate this too
+from visualize import visualize_chain
+from torch.utils.data import DataLoader, TensorDataset
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 fake = Faker()
+patient_counter = 0  # 🔢 GLOBAL COUNTER for patient IDs
 
 def load_config():
     with open("config.yaml") as f:
         return yaml.safe_load(f)
 
 def generate_patient_record():
+    global patient_counter
+    patient_counter += 1
+    patient_id = f"P{patient_counter:04d}"
+
     return {
-        "patient_id": fake.unique.lexify(text='P????'),
+        "patient_id": patient_id,
         "name": fake.name(),
         "age": random.randint(20, 85),
         "gender": random.choice(["Male", "Female"]),
@@ -72,27 +76,18 @@ if __name__ == '__main__':
     t_wait = config.get('t_wait', 5)
     difficulty = config.get('difficulty', 2)
 
-    nodes = list(config['nodes'].keys())
-
-
-    miners = []
-    for node_id in nodes:
-      miners.append(Miner(
-        miner_id=node_id,
-        block_size=block_size,
-        timeout=t_wait,
-        difficulty=difficulty,
-        is_malicious=False  # No malicious miner
-    ))
-
-
-    hospital_ids = [m.miner_id for m in miners]
+    nodes = config['nodes'].keys()
+    miners = [
+        Miner(miner_id=node_id, block_size=block_size, timeout=t_wait, difficulty=difficulty)
+        for node_id in nodes
+    ]
+    hospital_ids = [miner.miner_id for miner in miners]
 
     for epoch in range(1, num_rounds + 1):
         print(f"\n====================== EPOCH {epoch} ======================")
         hospital_data = {hid: [] for hid in hospital_ids}
 
-        # Patient generation + broadcasting
+        # Generate patient updates and broadcast to all miners
         for hid in hospital_ids:
             for _ in range(clients_per_round):
                 patient = generate_patient_record()
@@ -111,9 +106,9 @@ if __name__ == '__main__':
                 for miner in miners:
                     miner.add_update(patient, access_log)
 
-                print(f"[+] Patient {patient['name']} assigned to {hid}")
+                print(f"[+] Patient {patient['patient_id']} ({patient['name']}) assigned to {hid}")
 
-        # Prepare data
+        # Prepare local training data
         node_data = {}
         for hid, data_points in hospital_data.items():
             X, Y = zip(*data_points)
@@ -134,8 +129,10 @@ if __name__ == '__main__':
 
         previous_hash = chain.get_last_block().hash
         index = chain.get_last_block().index + 1
+        mined_blocks = []
 
         print("\n[🔁] Starting parallel PoW race...")
+
         with ThreadPoolExecutor(max_workers=len(miners)) as executor:
             futures = {
                 executor.submit(miner.mine_block, previous_hash, index, model_hash): miner
@@ -143,12 +140,11 @@ if __name__ == '__main__':
             }
 
             winner_block = None
-            mined_blocks = []
-
             for future in as_completed(futures):
                 mined_block = future.result()
-                if mined_block and mined_block.hash.startswith("0" * difficulty):
+                if mined_block and mined_block.hash.startswith("0" * mined_block.difficulty):
                     winner_block = mined_block
+                    print(f"[⛏️] Miner {mined_block.miner} found a valid block!")
                     mined_blocks.append(mined_block)
                     break
 
@@ -156,17 +152,15 @@ if __name__ == '__main__':
             miner.reset_candidate()
 
         if winner_block:
-            # Add accuracy to access logs for server check
-            winner_block.access_logs.append({
-                "event": "Model Aggregated",
-                "round": epoch,
-                "accuracy": accuracy
-            })
             server.receive_blocks(mined_blocks, miners)
 
-            # 🔍 Visualize chain after each round
-            visualize_chain(chain, round_num=epoch)
+            # ✅ Print patient list from winner block
+            print("Patients in this block:")
+            for p in winner_block.records:
+                print(f"  - [{p['patient_id']}] {p['name']} ({p['age']}y, {p['gender']}), Type: {p['record_type']}, Vitals: {p['vitals']}")
         else:
-            print("[!] No valid block mined this round.")
+            print("[!] No miner found a valid block in time.")
+
+        visualize_chain(chain, round_num=epoch)
 
     print("\n[✓] Federated Training + Blockchain Logging Complete. Saved to ehr_chain.json")

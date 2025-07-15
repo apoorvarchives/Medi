@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0001",
+    "name": "Rebecca Wilkerson",
+    "age": 31,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 81 bpm"
+  }
+]

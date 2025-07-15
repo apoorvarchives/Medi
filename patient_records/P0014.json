@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0014",
+    "name": "Jennifer Cannon",
+    "age": 21,
+    "gender": "Female",
+    "record_type": "Blood Test",
+    "vitals": "HR 74 bpm"
+  }
+]

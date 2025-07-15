@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0024",
+    "name": "Lisa Martinez",
+    "age": 46,
+    "gender": "Male",
+    "record_type": "MRI",
+    "vitals": "HR 69 bpm"
+  }
+]

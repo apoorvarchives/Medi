@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0031",
+    "name": "Holly Lawrence",
+    "age": 43,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 65 bpm"
+  }
+]

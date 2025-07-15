@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0044",
+    "name": "Jennifer Murphy",
+    "age": 68,
+    "gender": "Male",
+    "record_type": "Prescription",
+    "vitals": "HR 61 bpm"
+  }
+]

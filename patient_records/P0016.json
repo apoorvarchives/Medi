@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0016",
+    "name": "Anita Mendez",
+    "age": 45,
+    "gender": "Female",
+    "record_type": "CT Scan",
+    "vitals": "HR 60 bpm"
+  }
+]

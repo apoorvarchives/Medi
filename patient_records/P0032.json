@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0032",
+    "name": "Tyler Gonzalez",
+    "age": 68,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 89 bpm"
+  }
+]

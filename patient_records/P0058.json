@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0058",
+    "name": "Regina Sawyer",
+    "age": 77,
+    "gender": "Male",
+    "record_type": "CT Scan",
+    "vitals": "HR 68 bpm"
+  }
+]

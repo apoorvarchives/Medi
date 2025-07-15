@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0035",
+    "name": "Aaron Palmer",
+    "age": 37,
+    "gender": "Female",
+    "record_type": "MRI",
+    "vitals": "HR 65 bpm"
+  }
+]

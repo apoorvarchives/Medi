@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "P0040",
+    "name": "Aaron Jones Jr.",
+    "age": 38,
+    "gender": "Female",
+    "record_type": "Prescription",
+    "vitals": "HR 81 bpm"
+  }
+]
